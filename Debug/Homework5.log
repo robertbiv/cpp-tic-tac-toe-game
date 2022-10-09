@@ -1,0 +1,3 @@
+﻿  homework5.cpp
+C:\Users\Bobby School\OneDrive - The Pennsylvania State University\CMPSC\Homework5\Homework5\homework5.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Homework5.vcxproj -> C:\Users\Bobby School\OneDrive - The Pennsylvania State University\CMPSC\Homework5\Debug\Homework5.exe
