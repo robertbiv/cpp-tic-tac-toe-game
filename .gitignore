@@ -1,0 +1,20 @@
+# Compiled executables
+multiplication_practice
+*.exe
+*.out
+a.out
+
+# Object files
+*.o
+*.obj
+
+# Debug folders
+Debug/
+Release/
+
+# Visual Studio files
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.vcxproj.user
